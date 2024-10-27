@@ -1,5 +1,77 @@
 [
     {
+        "id": "BT_423",
+        "name": "Ashtongue Battlelord",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "RLK_Prologue_BT_423",
+        "name": "Ashtongue Battlelord",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_026",
+        "name": "Aldor Truthseeker",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_020",
+        "name": "Aldor Attendant",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_713",
+        "name": "Akama",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_188",
+        "name": "Shadowjeweler Hanar",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_710",
+        "name": "Greyheart Sage",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_702",
+        "name": "Ashtongue Slayer",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_713t",
+        "name": "Akama Prime",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_707t",
+        "name": "Broken Ambusher",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_714",
+        "name": "Frozen Shadoweaver",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
+        "id": "BT_727",
+        "name": "Soulbound Ashtongue",
+        "type": "Minion",
+        "set": "Ashes of Outland"
+    },
+    {
         "id": "TB_BaconShop_HP_011",
         "name": "Galakrond's Greed",
         "type": "Hero Power",
@@ -520,6 +592,72 @@
         "set": "Battlegrounds Duos"
     },
     {
+        "id": "WON_308",
+        "name": "Kabal Crystal Runner",
+        "type": "Minion",
+        "set": "Caverns of Time"
+    },
+    {
+        "id": "WON_053",
+        "name": "Runi, Time Explorer",
+        "type": "Minion",
+        "set": "Caverns of Time"
+    },
+    {
+        "id": "RLK_708",
+        "name": "Chillfallen Baron",
+        "type": "Minion",
+        "set": "Core"
+    },
+    {
+        "id": "RLK_Prologue_RLK_708",
+        "name": "Chillfallen Baron",
+        "type": "Minion",
+        "set": "Core"
+    },
+    {
+        "id": "CORE_BOT_103",
+        "name": "Stargazer Luna",
+        "type": "Minion",
+        "set": "Core"
+    },
+    {
+        "id": "CORE_EX1_093",
+        "name": "Defender of Argus",
+        "type": "Minion",
+        "set": "Core"
+    },
+    {
+        "id": "BT_407t",
+        "name": "Lost Soul",
+        "type": "Minion",
+        "set": "Demon Hunter Initiate"
+    },
+    {
+        "id": "DRG_322",
+        "name": "Dragoncaster",
+        "type": "Minion",
+        "set": "Descent of Dragons"
+    },
+    {
+        "id": "DRG_231",
+        "name": "Lightforged Crusader",
+        "type": "Minion",
+        "set": "Descent of Dragons"
+    },
+    {
+        "id": "DRG_232",
+        "name": "Lightforged Zealot",
+        "type": "Minion",
+        "set": "Descent of Dragons"
+    },
+    {
+        "id": "DRG_242",
+        "name": "Shield of Galakrond",
+        "type": "Minion",
+        "set": "Descent of Dragons"
+    },
+    {
         "id": "WON_113",
         "name": "Champions of Azeroth",
         "type": "Spell",
@@ -538,6 +676,12 @@
         "set": "Event"
     },
     {
+        "id": "ETC_314t2",
+        "name": "Popstar",
+        "type": "Minion",
+        "set": "Festival of Legends"
+    },
+    {
         "id": "ETC_069",
         "name": "Crescendo",
         "type": "Spell",
@@ -548,6 +692,36 @@
         "name": "Demonic Dynamics",
         "type": "Spell",
         "set": "Festival of Legends"
+    },
+    {
+        "id": "BAR_735",
+        "name": "Xyrella",
+        "type": "Minion",
+        "set": "Forged in the Barrens"
+    },
+    {
+        "id": "AV_343",
+        "name": "Stonehearth Vindicator",
+        "type": "Minion",
+        "set": "Fractured in Alterac Valley"
+    },
+    {
+        "id": "ONY_022",
+        "name": "Battle Vicar",
+        "type": "Minion",
+        "set": "Fractured in Alterac Valley"
+    },
+    {
+        "id": "ONY_002",
+        "name": "Gear Grubber",
+        "type": "Minion",
+        "set": "Fractured in Alterac Valley"
+    },
+    {
+        "id": "YOD_028",
+        "name": "Skydiving Instructor",
+        "type": "Minion",
+        "set": "Galakrond’s Awakening"
     },
     {
         "id": "HERO_11aa",
@@ -706,10 +880,70 @@
         "set": "Hero Skins"
     },
     {
+        "id": "CORE_BT_423",
+        "name": "Ashtongue Battlelord",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
+        "id": "CORE_ICC_245",
+        "name": "Blackguard",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
+        "id": "CORE_EX1_382",
+        "name": "Aldor Peacekeeper",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
+        "id": "CORE_BT_188",
+        "name": "Shadowjeweler Hanar",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
+        "id": "CORE_AT_047",
+        "name": "Draenei Totemcarver",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
+        "id": "CORE_ICC_466",
+        "name": "Saronite Chain Gang",
+        "type": "Minion",
+        "set": "Hidden"
+    },
+    {
         "id": "UNG_034",
         "name": "Radiant Elemental",
         "type": "Minion",
         "set": "Journey to Un’Goro"
+    },
+    {
+        "id": "UNG_926",
+        "name": "Cornered Sentry",
+        "type": "Minion",
+        "set": "Journey to Un’Goro"
+    },
+    {
+        "id": "ICC_245",
+        "name": "Blackguard",
+        "type": "Minion",
+        "set": "Knights of the Frozen Throne"
+    },
+    {
+        "id": "ICC_466",
+        "name": "Saronite Chain Gang",
+        "type": "Minion",
+        "set": "Knights of the Frozen Throne"
+    },
+    {
+        "id": "LOOT_375",
+        "name": "Guild Recruiter",
+        "type": "Minion",
+        "set": "Kobolds and Catacombs"
     },
     {
         "id": "LOOT_998l",
@@ -724,9 +958,58 @@
         "set": "Kobolds and Catacombs"
     },
     {
+        "id": "EX1_382",
+        "name": "Aldor Peacekeeper",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
+        "id": "CS2_101t6",
+        "name": "Silver Hand Recruit",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
+        "id": "EX1_130a",
+        "name": "Defender",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
+        "id": "EX1_350",
+        "name": "Prophet Velen",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
+        "id": "EX1_591",
+        "name": "Auchenai Soulpriest",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
+        "id": "EX1_587",
+        "name": "Windspeaker",
+        "type": "Minion",
+        "set": "Legacy"
+    },
+    {
         "id": "HERO_01awhp2",
         "name": "Tank Up!",
         "type": "Hero Power",
+        "set": "Legacy"
+    },
+    {
+        "id": "EX1_093",
+        "name": "Defender of Argus",
+        "type": "Minion",
+        "set": "Legacy",
+        "techLevel": 4
+    },
+    {
+        "id": "EX1_001",
+        "name": "Lightwarden",
+        "type": "Minion",
         "set": "Legacy"
     },
     {
@@ -736,9 +1019,58 @@
         "set": "Legacy"
     },
     {
+        "id": "DMF_122",
+        "name": "Mystery Winner",
+        "type": "Minion",
+        "set": "Madness at the Darkmoon Faire"
+    },
+    {
+        "id": "DMF_241",
+        "name": "High Exarch Yrel",
+        "type": "Minion",
+        "set": "Madness at the Darkmoon Faire"
+    },
+    {
+        "id": "NX2_032",
+        "name": "Lost Exarch",
+        "type": "Minion",
+        "set": "March of the Lich King"
+    },
+    {
+        "id": "CFM_760",
+        "name": "Kabal Crystal Runner",
+        "type": "Minion",
+        "set": "Mean Streets of Gadgetzan"
+    },
+    {
+        "id": "CFM_610",
+        "name": "Crystalweaver",
+        "type": "Minion",
+        "set": "Mean Streets of Gadgetzan",
+        "techLevel": 3
+    },
+    {
+        "id": "MAW_017",
+        "name": "Class Action Lawyer",
+        "type": "Minion",
+        "set": "Murder at Castle Nathria"
+    },
+    {
+        "id": "VAC_424",
+        "name": "Raylla, Sand Sculptor",
+        "type": "Minion",
+        "set": "Perils in Paradise"
+    },
+    {
         "id": "VAC_509",
         "name": "Tsunami",
         "type": "Spell",
+        "set": "Perils in Paradise"
+    },
+    {
+        "id": "WORK_031",
+        "name": "Envoy of Prosperity",
+        "type": "Minion",
         "set": "Perils in Paradise"
     },
     {
@@ -750,6 +1082,12 @@
     {
         "id": "VAC_940",
         "name": "Party Fiend",
+        "type": "Minion",
+        "set": "Perils in Paradise"
+    },
+    {
+        "id": "VAC_421",
+        "name": "Snoozin' Zookeeper",
         "type": "Minion",
         "set": "Perils in Paradise"
     },
@@ -772,10 +1110,58 @@
         "set": "Perils in Paradise"
     },
     {
+        "id": "TRL_501",
+        "name": "Auchenai Phantasm",
+        "type": "Minion",
+        "set": "Rastakhan’s Rumble"
+    },
+    {
         "id": "TRL_363t",
         "name": "Free Agent",
         "type": "Minion",
         "set": "Rastakhan’s Rumble"
+    },
+    {
+        "id": "DAL_576",
+        "name": "Kirin Tor Tricaster",
+        "type": "Minion",
+        "set": "Rise of Shadows"
+    },
+    {
+        "id": "DAL_551",
+        "name": "Proud Defender",
+        "type": "Minion",
+        "set": "Rise of Shadows"
+    },
+    {
+        "id": "SCH_704",
+        "name": "Soulshard Lapidary",
+        "type": "Minion",
+        "set": "Scholomance Academy"
+    },
+    {
+        "id": "SCH_141",
+        "name": "High Abbess Alura",
+        "type": "Minion",
+        "set": "Scholomance Academy"
+    },
+    {
+        "id": "SCH_149",
+        "name": "Argent Braggart",
+        "type": "Minion",
+        "set": "Scholomance Academy"
+    },
+    {
+        "id": "SCH_313",
+        "name": "Wretched Tutor",
+        "type": "Minion",
+        "set": "Scholomance Academy"
+    },
+    {
+        "id": "WW_342",
+        "name": "Lawful Longarm",
+        "type": "Minion",
+        "set": "Showdown in the Badlands"
     },
     {
         "id": "WW_381",
@@ -800,6 +1186,24 @@
         "name": "Shieldsman",
         "type": "Minion",
         "set": "Tavern Brawl"
+    },
+    {
+        "id": "BOT_103",
+        "name": "Stargazer Luna",
+        "type": "Minion",
+        "set": "The Boomsday Project"
+    },
+    {
+        "id": "AT_047",
+        "name": "Draenei Totemcarver",
+        "type": "Minion",
+        "set": "The Grand Tournament"
+    },
+    {
+        "id": "AT_094",
+        "name": "Flame Juggler",
+        "type": "Minion",
+        "set": "The Grand Tournament"
     },
     {
         "id": "GDB_470",
@@ -1918,6 +2322,42 @@
         "set": "The Great Dark Beyond"
     },
     {
+        "id": "SW_444",
+        "name": "Twilight Deceptor",
+        "type": "Minion",
+        "set": "United in Stormwind"
+    },
+    {
+        "id": "SW_433t3",
+        "name": "Xyrella, the Sanctified",
+        "type": "Minion",
+        "set": "United in Stormwind"
+    },
+    {
+        "id": "SW_069",
+        "name": "Enthusiastic Banker",
+        "type": "Minion",
+        "set": "United in Stormwind"
+    },
+    {
+        "id": "SW_057",
+        "name": "Package Runner",
+        "type": "Minion",
+        "set": "United in Stormwind"
+    },
+    {
+        "id": "OG_221",
+        "name": "Selfless Hero",
+        "type": "Minion",
+        "set": "Whispers of the Old Gods"
+    },
+    {
+        "id": "TOY_882",
+        "name": "Trinket Artist",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
         "id": "MIS_026",
         "name": "Puppetmaster Dorian",
         "type": "Minion",
@@ -1926,6 +2366,60 @@
     {
         "id": "TOY_518",
         "name": "Treasure Distributor",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_878",
+        "name": "Cosplay Contestant",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t2",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t3",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t4",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t5",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t6",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t7",
+        "name": "Toy Soldier",
+        "type": "Minion",
+        "set": "Whizbang’s Workshop"
+    },
+    {
+        "id": "TOY_814t8",
+        "name": "Toy Soldier",
         "type": "Minion",
         "set": "Whizbang’s Workshop"
     }
