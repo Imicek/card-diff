@@ -3,8 +3,7 @@
         "id": "TB_BaconShop_HP_011",
         "name": "Galakrond's Greed",
         "type": "Hero Power",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BGS_018",
@@ -59,15 +58,13 @@
         "id": "BG24_020e",
         "name": "Tea Time",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG24_020_Ge",
         "name": "Tea Time",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG24_500",
@@ -80,8 +77,7 @@
         "id": "BG24_500e",
         "name": "Guarded by Amber",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG24_500_G",
@@ -136,190 +132,163 @@
         "id": "BG29_873e2",
         "name": "Slimy",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG29_877e2",
         "name": "Fiery",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_821",
         "name": "Fishy Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_864",
         "name": "Gilnean Thorned Rose",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_914",
         "name": "Nerglish Phrasebook",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_916",
         "name": "Essence of Dreams",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_879",
         "name": "Dalaran Cheese Wheel",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_931",
         "name": "Lucky Tabby",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_951",
         "name": "Lava Lamp",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_406",
         "name": "Butcher's Sickle",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_407",
         "name": "Ship in a Bottle",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_410",
         "name": "Quilligraphy Set",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_416",
         "name": "Token of the Old Gods",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_418",
         "name": "Bronzebeard Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_419",
         "name": "Exquisite Dishware",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_425",
         "name": "Azeroth Model Globe",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_982",
         "name": "Shaman Prayer Beads",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_984",
         "name": "Charging Staff",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_987",
         "name": "Balladist Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_437",
         "name": "Staff of the Scourge",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_433",
         "name": "Alliance Keychain",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_540",
         "name": "Slamma Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_541",
         "name": "Nether Pendant",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_544",
         "name": "Nomi Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_432",
         "name": "Belcher Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_548",
         "name": "Glowscale Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_416t",
         "name": "Token of the Old Gods",
         "type": "Spell",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG29_708",
@@ -339,8 +308,7 @@
         "id": "BG30_MagicItem_441",
         "name": "Tinyfin Onesie",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG29_889",
@@ -360,22 +328,19 @@
         "id": "BG30_MagicItem_914t",
         "name": "Nerglish Phrasebook",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_432t",
         "name": "Belcher Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_410t2",
         "name": "Quilligraphy Set",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG31_802",
@@ -409,92 +374,79 @@
         "id": "BG30_MagicItem_700",
         "name": "Deathly Phylactery",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_701",
         "name": "The Eye of Sargeras",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_702",
         "name": "Primalfin Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_919",
         "name": "Nazjatar Postcard",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_918",
         "name": "Promo Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_921",
         "name": "Flagbearer Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_930",
         "name": "Burgling Claw",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_703",
         "name": "Mystery Cube",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_705",
         "name": "Bartend-o-Tron's Oilcan",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_943",
         "name": "Surveyor Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_706",
         "name": "Reflective Pendant",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_944",
         "name": "Redeemer Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_707",
         "name": "Tickatus Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_929",
@@ -514,50 +466,43 @@
         "id": "BG30_929t",
         "name": "Slip and Slide",
         "type": "Spell",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_929_Gt",
         "name": "Slip and Slide",
         "type": "Spell",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_777",
         "name": "Goose Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_710",
         "name": "Fungalmancer Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_711",
         "name": "Marine Signet",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_713",
         "name": "Bleeding Heart",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_MagicItem_921e",
         "name": "Flagged Down",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG30_754",
@@ -577,22 +522,19 @@
         "id": "BG30_MagicItem_714",
         "name": "Precious Pearl",
         "type": "BGs Trinket",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG27_509e",
         "name": "Raging Rampage",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BG27_509_Ge",
         "name": "Raging Rampage",
         "type": "Enchantment",
-        "set": "Battlegrounds",
-        "techLevel": null
+        "set": "Battlegrounds"
     },
     {
         "id": "BGDUO31_212_G",
@@ -605,2226 +547,1908 @@
         "id": "BGDUO_MagicItem_004",
         "name": "Charm of Generosity",
         "type": "BGs Trinket",
-        "set": "Battlegrounds Duos",
-        "techLevel": null
+        "set": "Battlegrounds Duos"
     },
     {
         "id": "BGDUO_MagicItem_005",
         "name": "Bottle Sticker",
         "type": "BGs Trinket",
-        "set": "Battlegrounds Duos",
-        "techLevel": null
+        "set": "Battlegrounds Duos"
     },
     {
         "id": "BGDUO_MagicItem_007",
         "name": "Orc-estra Portrait",
         "type": "BGs Trinket",
-        "set": "Battlegrounds Duos",
-        "techLevel": null
+        "set": "Battlegrounds Duos"
     },
     {
         "id": "BGDUO_MagicItem_009",
         "name": "Investment Contract",
         "type": "BGs Trinket",
-        "set": "Battlegrounds Duos",
-        "techLevel": null
+        "set": "Battlegrounds Duos"
     },
     {
         "id": "WON_113",
         "name": "Champions of Azeroth",
         "type": "Spell",
-        "set": "Event",
-        "techLevel": null
+        "set": "Event"
     },
     {
         "id": "WON_113a",
         "name": "For the Alliance!",
         "type": "Spell",
-        "set": "Event",
-        "techLevel": null
+        "set": "Event"
     },
     {
         "id": "WON_113b",
         "name": "For the Horde!",
         "type": "Spell",
-        "set": "Event",
-        "techLevel": null
+        "set": "Event"
     },
     {
         "id": "ETC_069",
         "name": "Crescendo",
         "type": "Spell",
-        "set": "Festival of Legends",
-        "techLevel": null
+        "set": "Festival of Legends"
     },
     {
         "id": "ETC_083",
         "name": "Demonic Dynamics",
         "type": "Spell",
-        "set": "Festival of Legends",
-        "techLevel": null
+        "set": "Festival of Legends"
     },
     {
         "id": "HERO_11aa",
         "name": "Astro Arfus",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_11ab",
         "name": "Scout Poxi",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_11ac",
         "name": "Stratholme Arthas",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_10at",
         "name": "Starhunter Kurtrus",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_06au",
         "name": "Eternal Malfurion",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_05as",
         "name": "Nathanos Blightcaller",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_05ashp",
         "name": "Steady Shot",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_05ashp2",
         "name": "Ballista Shot",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_08bc",
         "name": "Malygos",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_08bchp",
         "name": "Fireblast",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_08bd",
         "name": "Navigator A. F. Kay",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_08be",
         "name": "Hearthglen Jaina",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_08bchp2",
         "name": "Fireblast Rank 2",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_04aw",
         "name": "Exarch Yrel",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_04ax",
         "name": "Libram Aponi",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_09au",
         "name": "Astral Talanji",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_09av",
         "name": "Medic Elise",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_03av",
         "name": "Smuggler Marin",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_02az",
         "name": "Akama",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_02azhp",
         "name": "Totemic Call",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_02ba",
         "name": "Orgrimmar Thrall",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_02azhp2",
         "name": "Totemic Slam",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_07aw",
         "name": "Pilot Zail",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_01av",
         "name": "Captain Varian",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_01aw",
         "name": "Hogger",
         "type": "Hero",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "HERO_01awhp",
         "name": "Armor Up!",
         "type": "Hero Power",
-        "set": "Hero Skins",
-        "techLevel": null
+        "set": "Hero Skins"
     },
     {
         "id": "UNG_034",
         "name": "Radiant Elemental",
         "type": "Minion",
-        "set": "Journey to Un’Goro",
-        "techLevel": null
+        "set": "Journey to Un’Goro"
     },
     {
         "id": "UNG_034e",
         "name": "Radiant Elemental",
         "type": "Enchantment",
-        "set": "Journey to Un’Goro",
-        "techLevel": null
+        "set": "Journey to Un’Goro"
     },
     {
         "id": "LOOT_998l",
         "name": "Wondrous Wand",
         "type": "Spell",
-        "set": "Kobolds and Catacombs",
-        "techLevel": null
+        "set": "Kobolds and Catacombs"
     },
     {
         "id": "LOOT_998k",
         "name": "Golden Kobold",
         "type": "Minion",
-        "set": "Kobolds and Catacombs",
-        "techLevel": null
+        "set": "Kobolds and Catacombs"
     },
     {
         "id": "HERO_01awhp2",
         "name": "Tank Up!",
         "type": "Hero Power",
-        "set": "Legacy",
-        "techLevel": null
+        "set": "Legacy"
     },
     {
         "id": "EX1_405",
         "name": "Shieldbearer",
         "type": "Minion",
-        "set": "Legacy",
-        "techLevel": null
+        "set": "Legacy"
     },
     {
         "id": "GBL_011e",
         "name": "Cost - 5",
         "type": "Enchantment",
-        "set": "Legacy",
-        "techLevel": null
+        "set": "Legacy"
     },
     {
         "id": "VAC_509",
         "name": "Tsunami",
         "type": "Spell",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "VAC_301",
         "name": "Razzle-Dazzler",
         "type": "Minion",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "VAC_940",
         "name": "Party Fiend",
         "type": "Minion",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "VAC_444",
         "name": "Overplanner",
         "type": "Minion",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "VAC_702t3",
         "name": "Wondrous Wand",
         "type": "Spell",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "VAC_702t4",
         "name": "Golden Kobold",
         "type": "Minion",
-        "set": "Perils in Paradise",
-        "techLevel": null
+        "set": "Perils in Paradise"
     },
     {
         "id": "TRL_363t",
         "name": "Free Agent",
         "type": "Minion",
-        "set": "Rastakhan’s Rumble",
-        "techLevel": null
+        "set": "Rastakhan’s Rumble"
     },
     {
         "id": "WW_381",
         "name": "Injured Hauler",
         "type": "Minion",
-        "set": "Showdown in the Badlands",
-        "techLevel": null
+        "set": "Showdown in the Badlands"
     },
     {
         "id": "TTN_940a",
         "name": "Guardians of Life",
         "type": "Spell",
-        "set": "TITANS",
-        "techLevel": null
+        "set": "TITANS"
     },
     {
         "id": "YOG_516",
         "name": "Yogg-Saron, Unleashed",
         "type": "Minion",
-        "set": "TITANS",
-        "techLevel": null
+        "set": "TITANS"
     },
     {
         "id": "TB_SPT_Minion1",
         "name": "Shieldsman",
         "type": "Minion",
-        "set": "Tavern Brawl",
-        "techLevel": null
+        "set": "Tavern Brawl"
     },
     {
         "id": "GDB_470",
         "name": "Exarch Maladaar",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_477",
         "name": "The 8 Hands From Beyond",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_106",
         "name": "Guiding Figure",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_469",
         "name": "Auchenai Death-Speaker",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_112",
         "name": "Soulbound Spire",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_113",
         "name": "Airlock Breach",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_468",
         "name": "Wakener of Souls",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_475",
         "name": "Orbital Moon",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_476",
         "name": "Suffocate",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_478",
         "name": "Assimilating Blight",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_106e",
         "name": "Guiding Figure",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_112e",
         "name": "Soulbound Spire",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_113t",
         "name": "Unfortunate Soul",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_470e",
         "name": "Necromantic Power",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_470e2",
         "name": "Costs Corpses",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t4",
         "name": "The Spirits' Passage",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_113e",
         "name": "Breached Air",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_117",
         "name": "Dirdra, Rebel Captain",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_118",
         "name": "Xor'toth, Breaker of Stars",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_116",
         "name": "Eldritch Being",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_119",
         "name": "Emergency Meeting",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_110",
         "name": "Felfused Battery",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_473",
         "name": "Headhunt",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_474",
         "name": "Warp Drive",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_105",
         "name": "Shattershard Turret",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471",
         "name": "Voronei Recruiter",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_902",
         "name": "Infiltrate",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_110e",
         "name": "Felfused Battery",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t",
         "name": "Engine Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_118t",
         "name": "Star of Origination",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_110e2",
         "name": "Felfused",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t2",
         "name": "Tactical Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t3",
         "name": "Gunner Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t4",
         "name": "Helm Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t5",
         "name": "Recon Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t6",
         "name": "Research Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t7",
         "name": "Medical Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_471t8",
         "name": "Admin Crewmate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t5",
         "name": "The Legion's Bane",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_118t2",
         "name": "Star of Conclusion",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_105e",
         "name": "Shattershard Turret",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_854",
         "name": "Uluu, the Everdrifter",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_856",
         "name": "Exarch Othaar",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_857",
         "name": "Final Frontier",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_882",
         "name": "Cosmic Phenomenon",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_108",
         "name": "Starlight Reactor",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_851",
         "name": "Astral Phaser",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_855",
         "name": "Star Grazer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_103",
         "name": "Sha'tari Cloakfield",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_852",
         "name": "Arkonite Revelation",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_883",
         "name": "Distress Signal",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_103e",
         "name": "Sha'tari Cloakfield",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_108e",
         "name": "Starlight Reactor",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_855e",
         "name": "Whale Strike",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_851e",
         "name": "Stunned",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_851a",
         "name": "Lethal Rays",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t6",
         "name": "The Celestial Archive",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_851b",
         "name": "Stunning Star",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_882t",
         "name": "Living Pulsar",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_882e",
         "name": "Phenomenal",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_103e2",
         "name": "Cloaked",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_842",
         "name": "Gorm the Worldeater",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_846",
         "name": "Exarch Naielle",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_107",
         "name": "Specimen Claw",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_843",
         "name": "Parallax Cannon",
         "type": "Weapon",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_111",
         "name": "Biopod",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_845",
         "name": "Laser Barrage",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_237",
         "name": "Alien Encounters",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_840",
         "name": "Extraterrestrial Egg",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_841",
         "name": "Rangari Scout",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_844",
         "name": "Detailed Notes",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_107e",
         "name": "Specimen Claw",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_111e",
         "name": "Biopod",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_842e",
         "name": "Gorm Enchant",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_840t",
         "name": "Eggburster",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_237t",
         "name": "Snacking Scrunguk",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t7",
         "name": "The Astral Compass",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_846hp",
         "name": "Tracking",
         "type": "Hero Power",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_842e2",
         "name": "Planetary Feast",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_842e3",
         "name": "Gorm Eating Enchant",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_843e2",
         "name": "Angular Immunity",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_136",
         "name": "Exarch Hataaru",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_304",
         "name": "Saruun",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_133",
         "name": "Pocket Dimension",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_301",
         "name": "Supernova",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_134",
         "name": "Arkwing Pilot",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_135",
         "name": "Ingenious Artificer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_302",
         "name": "Blazing Accretion",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_456",
         "name": "Spontaneous Combustion",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_303",
         "name": "Blasteroid",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_305",
         "name": "Solar Flare",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_135e",
         "name": "Ingenious Artficer Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_136e",
         "name": "Exarch Hataaru",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_304e",
         "name": "Heat of Saruun",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_141",
         "name": "Yrel, Beacon of Hope",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_144",
         "name": "Lumia",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_138",
         "name": "Libram of Divinity",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_140",
         "name": "Celestial Aura",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_726",
         "name": "Interstellar Starslicer",
         "type": "Weapon",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_462",
         "name": "Orbital Satellite",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_139",
         "name": "Libram of Faith",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_721",
         "name": "Interstellar Wayfarer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_728",
         "name": "Interstellar Researcher",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_137",
         "name": "Libram of Clarity",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_726e",
         "name": "Interstellar Libram Enchantment",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_138e",
         "name": "Divine Learnings",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_137e1",
         "name": "Clarity",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_139t",
         "name": "Lightforged Draenei",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_144e",
         "name": "Lumia's Protection",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_138e2",
         "name": "Libram of Divinity",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_442",
         "name": "K'ure, the Light Beyond",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_455",
         "name": "Askara",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_440",
         "name": "Mystified To'cha",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_464",
         "name": "Gravity Lapse",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_439",
         "name": "Orbital Halo",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_441",
         "name": "Anchorite",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_454",
         "name": "Overzealous Healer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_452",
         "name": "Shield of Askara",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_457",
         "name": "Lightspeed",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_460",
         "name": "Divine Star",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_439e",
         "name": "Orbiting Halo",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_440e",
         "name": "The Answer",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_455e",
         "name": "Askara Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_460e2",
         "name": "Moral Compass",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_464e",
         "name": "Low Gravity",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_457e1",
         "name": "Speed of Light",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_464e2",
         "name": "Intense Gravity",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_466",
         "name": "The Gravitational Displacer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_472",
         "name": "Talgath",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_873",
         "name": "Lucky Comet",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_467",
         "name": "Quasar",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_102",
         "name": "Starship Schematic",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_870",
         "name": "Eredar Skulker",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_881",
         "name": "Pressure Points",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_875",
         "name": "Spacerock Collector",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_876",
         "name": "Scrounging Shipwright",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_465",
         "name": "Barrel Roll",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_873e",
         "name": "Combo Comet",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_875e",
         "name": "Rock Collection",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t8",
         "name": "The Scavenger's Will",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_447",
         "name": "Farseer Nobundo",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_448",
         "name": "Murmur",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_434",
         "name": "Bolide Behemoth",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_479",
         "name": "Nebula",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_444",
         "name": "Planetary Navigator",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_445",
         "name": "Meteor Storm",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_451",
         "name": "Triangulate",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_443",
         "name": "Cosmonaut",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_864",
         "name": "First Contact",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_901",
         "name": "Ultraviolet Breaker",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_444e",
         "name": "Planetary Navigator Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_136t",
         "name": "The Galaxy's Lens",
         "type": "Location",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_127",
         "name": "K'ara, the Dark Star",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_128",
         "name": "Archimonde",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_125",
         "name": "Healthstone",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_126",
         "name": "Black Hole",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_104",
         "name": "Felfire Thrusters",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_122",
         "name": "Infernal Stratagem",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_124",
         "name": "Bad Omen",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_124t",
         "name": "Bad Omen",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_109",
         "name": "Heart of the Legion",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_121",
         "name": "Foreboding Flame",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_123",
         "name": "Abduction Ray",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_104e",
         "name": "Felfire Thrusters",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_122e",
         "name": "Infernal Strategy",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_124t2",
         "name": "Felborne Overfiend",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t9",
         "name": "The Nether's Eye",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_121e",
         "name": "Burning Legion's Boon",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_127e2b",
         "name": "Consuming Void",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_127eb",
         "name": "Void Consumed",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_122e2",
         "name": "Strategic Inferno",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_109e",
         "name": "Heart of the Legion",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_234",
         "name": "Spore Empress Moldara",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_235",
         "name": "Exarch Akama",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_230",
         "name": "Stalwart Avenger",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_233",
         "name": "Dwarf Planet",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_227",
         "name": "Jettison",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_229",
         "name": "Expedition Sergeant",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_231",
         "name": "Crystalline Greatmace",
         "type": "Weapon",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_226",
         "name": "Hostile Invader",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_228",
         "name": "Captain's Log",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_232",
         "name": "Unyielding Vindicator",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_229e",
         "name": "Expedition Sergeant Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_231e",
         "name": "Vindication",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_232e2",
         "name": "Vindicator's Power",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_230e",
         "name": "Stance Swap",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_234t",
         "name": "Replicating Spore",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_120",
         "name": "The Exodar",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_131",
         "name": "Velen, Leader of the Exiled",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_142",
         "name": "The Ceaseless Expanse",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_145",
         "name": "Kil'jaeden",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_450",
         "name": "Ace Wayfinder",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_129",
         "name": "Doommaiden",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_321",
         "name": "Mutating Lifeform",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_340",
         "name": "Star Vulpera",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_341",
         "name": "Red Giant",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100",
         "name": "Arkonite Defense Crystal",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_862",
         "name": "Galactic Crusader",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_132",
         "name": "Relentless Wrathguard",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_331",
         "name": "Splitting Spacerock",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_343",
         "name": "Perplexing Anomaly",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_101",
         "name": "Dimensional Core",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_720",
         "name": "Starlight Wanderer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_722",
         "name": "Crimson Commander",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_723",
         "name": "Hologram Operator",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_435",
         "name": "Moonstone Mauler",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_860",
         "name": "Starscale Constellar",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_861",
         "name": "Stranded Spaceman",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_863",
         "name": "Lunar Trailblazer",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_130",
         "name": "Crystal Welder",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_461",
         "name": "Astral Vigilant",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_463",
         "name": "Troubled Mechanic",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_877",
         "name": "Escape Pod",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_874",
         "name": "Astrobiologist",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_878",
         "name": "Braingill",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_310",
         "name": "Ethereal Oracle",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_311",
         "name": "Deep Space Curator",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_320",
         "name": "Eredar Brute",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_322",
         "name": "Lightfused Manasaber",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_330",
         "name": "Ur'zul Rager",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_333",
         "name": "Space Pirate",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100e1",
         "name": "Spaceship Piece Tracker",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t1",
         "name": "Starship Pieces",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t2",
         "name": "The Exile's Hope",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100t3",
         "name": "Starship Launch Button",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100a",
         "name": "Emergency Repairs",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100b",
         "name": "Offensive Formation",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100c",
         "name": "Crew Transport",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100e",
         "name": "Arkonite Defense Crystal",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_720e",
         "name": "Starlight Wanderer Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_720e1",
         "name": "Sparkling Starlight",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_722e",
         "name": "Red Shirt",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_430",
         "name": "Asteroid",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_861e",
         "name": "Stranded Spaceman Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_232e",
         "name": "Unyielding Vindicator Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_450e",
         "name": "Ace Wayfinder Future Buff",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_100e3",
         "name": "Spaceship Assembly",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_877e",
         "name": "Escaping",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_874e",
         "name": "Astrobiologist",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_878e",
         "name": "MRGLGIGA BRAIN",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_466e",
         "name": "The Gravitational Displacer",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_472e",
         "name": "Talgath's Betrayal",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_119e",
         "name": "Going Into Battle",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_145e",
         "name": "Kil'jaeden's Portal",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_145e2",
         "name": "Legion's Power",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_331t1",
         "name": "Splitting Boulder",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_331t2",
         "name": "Splitting Stone",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_331t3",
         "name": "Pebble",
         "type": "Minion",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_860e",
         "name": "Starscales",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_COIN1",
         "name": "The Coin",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_COIN2",
         "name": "The Coin",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_861e2",
         "name": "To the Rescue!",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_129e",
         "name": "Doom Interrogation",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_441e",
         "name": "Devotion",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_870e2",
         "name": "Skulking",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_905",
         "name": "Launch Starship",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_906",
         "name": "Abort Launch",
         "type": "Spell",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_333e",
         "name": "Space Piracy",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_130e",
         "name": "Welding Complete",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_140e",
         "name": "Celestial",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_863e",
         "name": "Trail Blazed",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_101e",
         "name": "Dimensional Core",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "GDB_448e",
         "name": "Murmuring",
         "type": "Enchantment",
-        "set": "The Great Dark Beyond",
-        "techLevel": null
+        "set": "The Great Dark Beyond"
     },
     {
         "id": "MIS_026",
         "name": "Puppetmaster Dorian",
         "type": "Minion",
-        "set": "Whizbang’s Workshop",
-        "techLevel": null
+        "set": "Whizbang’s Workshop"
     },
     {
         "id": "TOY_518",
         "name": "Treasure Distributor",
         "type": "Minion",
-        "set": "Whizbang’s Workshop",
-        "techLevel": null
+        "set": "Whizbang’s Workshop"
     }
 ]
