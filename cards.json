@@ -1182,12 +1182,6 @@
         "set": "TITANS"
     },
     {
-        "id": "TB_SPT_Minion1",
-        "name": "Shieldsman",
-        "type": "Minion",
-        "set": "Tavern Brawl"
-    },
-    {
         "id": "BOT_103",
         "name": "Stargazer Luna",
         "type": "Minion",
