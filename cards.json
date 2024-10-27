@@ -240,27 +240,9 @@
         "set": "Hero Skins"
     },
     {
-        "id": "HERO_05ashp",
-        "name": "Steady Shot",
-        "type": "Hero Power",
-        "set": "Hero Skins"
-    },
-    {
-        "id": "HERO_05ashp2",
-        "name": "Ballista Shot",
-        "type": "Hero Power",
-        "set": "Hero Skins"
-    },
-    {
         "id": "HERO_08bc",
         "name": "Malygos",
         "type": "Hero",
-        "set": "Hero Skins"
-    },
-    {
-        "id": "HERO_08bchp",
-        "name": "Fireblast",
-        "type": "Hero Power",
         "set": "Hero Skins"
     },
     {
@@ -273,12 +255,6 @@
         "id": "HERO_08be",
         "name": "Hearthglen Jaina",
         "type": "Hero",
-        "set": "Hero Skins"
-    },
-    {
-        "id": "HERO_08bchp2",
-        "name": "Fireblast Rank 2",
-        "type": "Hero Power",
         "set": "Hero Skins"
     },
     {
@@ -318,21 +294,9 @@
         "set": "Hero Skins"
     },
     {
-        "id": "HERO_02azhp",
-        "name": "Totemic Call",
-        "type": "Hero Power",
-        "set": "Hero Skins"
-    },
-    {
         "id": "HERO_02ba",
         "name": "Orgrimmar Thrall",
         "type": "Hero",
-        "set": "Hero Skins"
-    },
-    {
-        "id": "HERO_02azhp2",
-        "name": "Totemic Slam",
-        "type": "Hero Power",
         "set": "Hero Skins"
     },
     {
@@ -352,48 +316,6 @@
         "name": "Hogger",
         "type": "Hero",
         "set": "Hero Skins"
-    },
-    {
-        "id": "HERO_01awhp",
-        "name": "Armor Up!",
-        "type": "Hero Power",
-        "set": "Hero Skins"
-    },
-    {
-        "id": "CORE_BT_423",
-        "name": "Ashtongue Battlelord",
-        "type": "Minion",
-        "set": "Hidden"
-    },
-    {
-        "id": "CORE_ICC_245",
-        "name": "Blackguard",
-        "type": "Minion",
-        "set": "Hidden"
-    },
-    {
-        "id": "CORE_EX1_382",
-        "name": "Aldor Peacekeeper",
-        "type": "Minion",
-        "set": "Hidden"
-    },
-    {
-        "id": "CORE_BT_188",
-        "name": "Shadowjeweler Hanar",
-        "type": "Minion",
-        "set": "Hidden"
-    },
-    {
-        "id": "CORE_AT_047",
-        "name": "Draenei Totemcarver",
-        "type": "Minion",
-        "set": "Hidden"
-    },
-    {
-        "id": "CORE_ICC_466",
-        "name": "Saronite Chain Gang",
-        "type": "Minion",
-        "set": "Hidden"
     },
     {
         "id": "UNG_034",
@@ -471,12 +393,6 @@
         "id": "EX1_587",
         "name": "Windspeaker",
         "type": "Minion",
-        "set": "Legacy"
-    },
-    {
-        "id": "HERO_01awhp2",
-        "name": "Tank Up!",
-        "type": "Hero Power",
         "set": "Legacy"
     },
     {
