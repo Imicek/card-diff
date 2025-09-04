@@ -1,8 +1,90 @@
 [
     {
-        "id": "HERO_10bb",
-        "name": "Dirdra",
-        "type": "Hero",
-        "set": "Hero Skins"
+        "name": "Classic Krush",
+        "id2": 122617,
+        "id": "PET_3_1",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Devilsaur Krush",
+        "id2": 122618,
+        "id": "PET_3_2",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "King Plush",
+        "id2": 122619,
+        "id": "PET_3_3",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Crystal Krush",
+        "id2": 122620,
+        "id": "PET_3_4",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Rabbit'ath",
+        "id2": 125211,
+        "id": "PET_4_1",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Angelic Rabbit'ath",
+        "id2": 125212,
+        "id": "PET_4_2",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Ethereal Rabbit'ath",
+        "id2": 125213,
+        "id": "PET_4_3",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
+    },
+    {
+        "name": "Corrupted Rabbit'ath",
+        "id2": 125214,
+        "id": "PET_4_4",
+        "type": "Pet",
+        "set": "Pet",
+        "races": null,
+        "spellschool": null,
+        "class": "Neutral",
+        "art_texture": null
     }
 ]
